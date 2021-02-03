@@ -1,5 +1,5 @@
 # DSA
-#### Practicing coding daily here. Because now things need to be controlled!
+#### Practicing coding daily here. 
 ## Links to other resourceful contents:
 * [Leetcode Questions Google Sheet](https://lnkd.in/d2NHt-2)
 * [Love Babbar's 450 Question List](https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view)
